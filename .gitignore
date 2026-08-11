@@ -1,0 +1,21 @@
+# React
+food-ordering-frontend/node_modules/
+food-ordering-frontend/dist/
+
+# Spring Boot
+food-ordering-backend/target/
+
+# Environment files
+.env
+.env.local
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
